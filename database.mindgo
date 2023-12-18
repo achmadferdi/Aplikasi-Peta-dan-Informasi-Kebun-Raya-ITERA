@@ -1,0 +1,20 @@
+databases_fredi_pemetaan_kebun_raya_itera
+    data_admin
+    data_pengguna
+        id_pengguna
+        nama
+        alamat
+        jenis_kelamin
+        no_telepon
+        username
+        password
+    data_lokasi
+        id_lokasi
+        nama
+        foto1
+        foto2
+        deskripsi
+    data_notifikasi
+        id_notifikasi
+        notifikasi
+        nama
